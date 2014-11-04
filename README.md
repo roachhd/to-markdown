@@ -2,7 +2,7 @@
 
 An HTML to Markdown converter written in javascript.
 
-A basic implementation is there, but it's not yet fully bulletproof (contributions welcome!).
+A basic implementation is there, but it's not yet fully bulletproof (contributions welcome!). 
 
 ## Known issues
 
